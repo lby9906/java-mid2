@@ -14,3 +14,4 @@ public class MyHashSetV3Main {
         System.out.println("set.contains(" + searchValue + ") = " + result);
     }
 }
+
